@@ -1,0 +1,5 @@
+#!/bin/sh
+rm -rf a.out
+clang bubble.c
+./a.out
+
